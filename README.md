@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cltcj&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Mytinyhttpd)](https://github.com/Cltcj/Mytinyhttpd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cltcj&repo=Mytinyhttpd)](https://github.com/Cltcj/Mytinyhttpd)
 
