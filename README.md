@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cltcj&repo=Mytinyhttpd)](https://github.com/Cltcj/Mytinyhttpd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cltcj)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cltcj&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
