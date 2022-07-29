@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/insights?user=Cltcj"> </div>
+
+<div align="center"> <img src="https://metrics.lecoq.io/insights/Cltcj"> </div>
